@@ -11,7 +11,7 @@ const styles = () => ({
     fontWeight: "600",
   },
 });
-
+// location list component
 const LocationList = (props) => {
   const { classes, data } = props;
   return (

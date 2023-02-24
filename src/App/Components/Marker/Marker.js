@@ -1,6 +1,7 @@
 import { number, oneOfType, string } from "prop-types";
 import { markerPng } from "../../Assert/Images";
 
+// map marker component
 const Marker = ({lat, lng, markerId}) => {
   return (
     <img
