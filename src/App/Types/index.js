@@ -1,0 +1,1 @@
+export const SET_MAP_FILTER_DATA = "SET_MAP_FILTER_DATA";

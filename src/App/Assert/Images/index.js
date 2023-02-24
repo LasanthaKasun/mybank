@@ -1,0 +1,1 @@
+export { default as markerPng } from "./marker.png";
